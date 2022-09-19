@@ -1,4 +1,4 @@
-# Salim-Unlu
+# salimunlu47
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=020608&lines=Hi+there+👋,+I'm+Salim+Unlu;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=020608&lines=Hi+there+👋,+I'm+Salim;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
