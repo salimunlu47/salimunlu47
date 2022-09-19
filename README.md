@@ -1,10 +1,8 @@
 # Salim Unlu
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=020608&lines=Hi+there+👋,+I'm+Salim+Unlu;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=020608&lines=Hi+there+👋,+I'm+Salim;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=020608&lines=Hello+World!+👋,+I'm+Salim+Unlu;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
-- 🤸‍♀️  I'm interested in **Data Science and Statistics.** 
-- :books: I like reading books.
+- :sunglasses: Data Scientist with 5+ years of experience. I have BS degree in Electronics Engineering and MS degree in Operations Research. I like studying in Statistics and Optimization. :books: A book reader. :headphones: House music listener. :working-from-coffee-shop: Turning coffee into code.
 ## 🕵️‍♀️ Social:
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salimunlu47/)
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/salimunlu47)
