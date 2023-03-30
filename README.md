@@ -1,6 +1,6 @@
 # Salim Unlu
 
-:sunglasses: Data Scientist with 5+ years of experience. BS degree in Electronics Engineering and MS degree in Operations Research. Studying Statistics and Optimization. :books: A book reader. :headphones: House music listener. :coffee: Turning coffee into code.
+:sunglasses: Data Scientist with 7+ years of experience. BS degree in Electronics Engineering and MS degree in Operations Research. Studying Statistics and Optimization. :books: A book reader. :headphones: House music listener. :coffee: Turning coffee into code.
 ## 🕵️‍♀️ Social:
 <!--- [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salimunlu47/)-->
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/salimunlu47)
